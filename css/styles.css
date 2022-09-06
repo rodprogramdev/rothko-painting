@@ -1,3 +1,12 @@
+/*
+PRIMARY COLOR: #F5EDDC
+SECONDARY COLOR: #CFD2CF
+ACCENT COLORS: 
+#A2B5BB
+#EB1D36
+
+
+*/
 img{
     width: 500px;
     height:500px;
@@ -6,4 +15,12 @@ img{
 .canvas{
     width: 500px;
     height: 600px;
+    background-color: #F5EDDC;
+}
+
+.frame{
+    border: 50px solid black;
+    width: 500px;
+    padding: 50px;
+    margin: 20px auto;
 }
