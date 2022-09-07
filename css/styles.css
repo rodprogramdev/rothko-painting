@@ -37,6 +37,7 @@ img{
     height: 150px;
     background-color: #CFD2CF;
     margin: 20px auto;
+    filter: blur(1px);
 }
 
 .two{
@@ -44,6 +45,7 @@ img{
     width: 475px;
     height: 200px;
     margin: 0 auto 20px;
+    filter: blur(1px);
 }
 
 .three{
@@ -51,4 +53,5 @@ img{
     height: 28%;
     background-color: #EB1D36;
     margin: auto;
+    filter: blur(2px);
 }
