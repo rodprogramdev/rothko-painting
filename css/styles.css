@@ -5,6 +5,10 @@ ACCENT COLORS:
 #A2B5BB
 #EB1D36
 
+SAMPLE COLOR COMBINATIONS FOR A ROTHKO PAINTING
+PRIMARY: #b7593f,#de7b9a
+SECONDARY: #eaa234
+Accent: #f4eed4, #eaa22c
 
 */
 img{
@@ -18,6 +22,7 @@ img{
     background-color: #F5EDDC;
     /* padding: 1px; */
     overflow: hidden;
+    filter: blur(2px);
 }
 
 .frame{
