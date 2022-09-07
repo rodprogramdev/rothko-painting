@@ -39,6 +39,7 @@ img{
     margin: 20px auto;
     filter: blur(1px);
     box-shadow: 0 0 3px 3px #CFD2CF;
+    border-radius: 9px;
 }
 
 .two{
@@ -48,6 +49,7 @@ img{
     margin: 0 auto 20px;
     filter: blur(1px);
     box-shadow: 0 0 3px 3px #A2B5BB;
+    border-radius: 8px 10px;
 }
 
 .three{
@@ -57,4 +59,5 @@ img{
     margin: auto;
     filter: blur(2px);
     box-shadow: 0 0 5px 5px #EB1D36;
+    border-radius: 30px 25px 60px 12px;
 }
